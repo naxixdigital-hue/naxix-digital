@@ -26,8 +26,8 @@ function App() {
 
   <footer class="text-black px-6 md:px-20 pb-14">
     <p class="font-bold my-2">Have a project in mind?</p>
-    <p>Drop us a message at: 
-      <a href="mailto:naxixdigital@gmail.com" class="text-black hover:text-[var(--color-primary)] underline">naxixdigital@gmail.com</a>
+    <p>Drop us a message at:   
+      <a href="mailto:naxixdigital@gmail.com" class="text-black hover:text-[var(--color-primary)] underline"> naxixdigital@gmail.com</a>
     </p>
   </footer>
 </div>
